@@ -1,0 +1,58 @@
+ul > li > a:hover {
+  text-decoration: none;
+}
+
+.jumbotron{
+  height: 600px;
+  background-image: url("http://blog.sandiego.org/wp-content/uploads/2012/04/Skyline-from-Coronado-2011_8416.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.buttons {
+  text-align:center;
+  padding-top: 60px;
+}
+
+
+#about {
+  height: 500px;
+  background-image: url("http://www.easyfreepatterns.com/patterns/39/backgrounds-vintage-pastel-background-tumblr-39712.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+#portfolio > img {
+	width: 30%;
+	float:left;
+	margin:1.66%;
+}
+
+
+#contact{
+  margin-top: 50px;
+  height: 500px;
+  
+}
+
+.float-right {
+  border: 2px solid black;
+  border-radius: 50px;
+  float:right;
+}
+
+.summary{
+  /*text-align: justify;*/
+  padding-top: 60px;
+  font-size:18px;
+  font-weight: bold;
+ 
+}
+
+h1,h3, h4 {
+  text-align: center;
+}
+
+h4{
+  text-transform: uppercase;
+}
